@@ -38,7 +38,7 @@ function BrideGroom() {
             podróżowanie i odkrywanie nowych miejsc z Sylwią.
           </p>
           <img
-            src="zdj 3.1.jpg"
+            src="piotr1.jpg"
             alt="Piotr"
             className="w-auto h-auto mx-auto border-2 border-RAL9003"
           />
