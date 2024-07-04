@@ -14,11 +14,19 @@ function Engagement() {
         potwierdzić to drugimi zaręczynami, ale tym razem tak jak zawsze to
         planował, we Florencji.
       </p>
-      <img src="zdj 5.jpg" alt="Zaręczyny 1" className="w-full max-w-xs mx-2" />
-      <img src="zdj 6.jpg" alt="Zaręczyny 2" className="w-full max-w-xs mx-2" />
+      <img
+        src="zareczyny1.jpg"
+        alt="Zaręczyny 1"
+        className="w-full max-w-xs mx-2"
+      />
+      <img
+        src="zareczyny2.jpg"
+        alt="Zaręczyny 2"
+        className="w-full max-w-xs mx-2"
+      />
       <p>Przyszedł więc czas na sakramentalne TAK.</p>
       <img
-        src="zdj 7..jpg"
+        src="zareczyny3.jpg"
         alt="Zaręczyny 2"
         className="w-full max-w-xs mx-2"
       />
