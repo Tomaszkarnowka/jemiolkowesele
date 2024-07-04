@@ -11,12 +11,30 @@ function App() {
   return (
     <div className="bg-RAL6011 text-RAL9003 flex flex-col gap-6">
       <Header />
-      <div className="border-b mx-20 drop-shadow-2xl "></div>
+      {/* <div className="border-b mx-20 drop-shadow-2xl "></div> */}
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <BrideGroom />
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <FirstMeeting />
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <Memories />
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <Engagement />
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <OurRoad />
+      <div className="text-center flex flex-col justify-center items-center">
+        <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
+      </div>
       <ThankYou />
     </div>
   );
