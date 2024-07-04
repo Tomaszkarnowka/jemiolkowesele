@@ -12,7 +12,7 @@ function ThankYou() {
         dysku, który umożliwi Wam wgranie zdjęć i filmików, tak by nic z tego
         dnia nas nie ominęło.
       </p>
-      <a href="https://drive.google.com/drive/u/0/home">
+      <a href="https://drive.google.com/drive/folders/1_D0mSpIdQH7dVREiw5UMY6HJSf9IOBz5?usp=sharing">
         <button className="rounded-full bg-RAL9003 text-RAL6011 mx-10 p-2">
           WGRAJ FOTKI
         </button>

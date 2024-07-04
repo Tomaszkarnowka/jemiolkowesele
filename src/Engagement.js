@@ -4,7 +4,7 @@ function Engagement() {
   return (
     <div className="text-center mx-8 flex flex-col justify-center items-center">
       <p className="text-7xl mb-6 font-script leading-10">Oświadczyny</p>
-      <p className="">
+      <p className="mb-2">
         Po 6 latach namysłów i oszczędności, Piotrek postanowił oświadczyć się
         Sylwii, choć oboje wiedzieli, że to tylko formalność.<br></br>Rocznicowy
         wypad w lipcu 2021 roku na Corfu i 50-cio minutowy spacer w 30ºC na Cape
@@ -17,18 +17,12 @@ function Engagement() {
       <img
         src="zareczyny1.jpg"
         alt="Zaręczyny 1"
-        className="w-full max-w-xs mx-2"
+        className="w-full max-w-xs mx-2 mb-4 border-2"
       />
       <img
         src="zareczyny2.jpg"
         alt="Zaręczyny 2"
-        className="w-full max-w-xs mx-2"
-      />
-      <p>Przyszedł więc czas na sakramentalne TAK.</p>
-      <img
-        src="zareczyny3.jpg"
-        alt="Zaręczyny 2"
-        className="w-full max-w-xs mx-2"
+        className="w-full max-w-xs mx-2 border-2"
       />
     </div>
   );

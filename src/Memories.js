@@ -12,14 +12,9 @@ const slides = [
   "memories9.jpg",
   "memories10.jpg",
   "memories11.jpg",
-  "memories12.jpg",
-  "memories13.jpg",
-  "memories14.jpg",
   "memories15.jpg",
-  "memories16.jpg",
   "memories17.jpg",
   "memories18.jpg",
-  "memories19.jpg",
 ];
 
 function Memories() {
@@ -29,7 +24,11 @@ function Memories() {
       <div className="max-w-lg mx-4">
         <Carousel autoSlide={true}>
           {slides.map((s) => (
-            <img src={s} alt={`${s}`} className="border-2 border-RAL9003" />
+            <img
+              src={s}
+              alt={`${s}`}
+              className="border-2 border-RAL9003 object-cover"
+            />
           ))}
         </Carousel>
       </div>

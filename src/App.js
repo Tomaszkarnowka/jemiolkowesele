@@ -9,9 +9,8 @@ import ThankYou from "./ThankYou";
 
 function App() {
   return (
-    <div className="bg-RAL6011 text-RAL9003 flex flex-col gap-6">
+    <div className="bg-RAL6011 text-RAL9003 flex flex-col gap-6 items-center text-center">
       <Header />
-      {/* <div className="border-b mx-20 drop-shadow-2xl "></div> */}
       <div className="text-center flex flex-col justify-center items-center">
         <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
       </div>

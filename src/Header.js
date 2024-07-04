@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <div className="min-h-screen flex flex-col gap-10 items-center text-center py-6 bg-gray-800 font-script mx-3">
+    <div className="min-h-screen flex flex-col gap-10 items-center text-center py-6 bg-gray-800 font-script mx-3 max-w-3xl">
       <div className="text-8xl leading-10 mt-2">
         <p>To the moon</p>
         <p className="my-6"></p>
@@ -11,7 +11,7 @@ function Header() {
       <img
         src="Zdj 1.1.jpg"
         alt="Zaręczyny 1"
-        className="w-auto h-auto  rounded-full mx-auto max-w-m max-h-m "
+        className="w-auto h-auto  rounded-full mx-auto max-w-m max-h-m border-2"
       />
       <div className="text-7xl leading-10 ">
         <p>Sylwia Zielińska</p>
