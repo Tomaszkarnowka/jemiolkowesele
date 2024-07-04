@@ -1,27 +1,31 @@
 import React from "react";
 import Carousel from "./Carousel";
 const slides = [
-  "zdj  4.6.jpg",
-  "zdj 4,6.jpg",
-  "zdj 4,7...jpg",
-  "zdj 4.0 .jpg",
-  "zdj 4.0.jpg",
-  "zdj 4.2.jpg",
-  "zdj 4.3.jpg",
-  "zdj 4.4.jpg",
-  "zdj 4.5.jpg",
-  "zdj 4.7..jpg",
-  "zdj 4.8 .jpg",
-  "zdj 4.9 .jpg",
-  "zdj 4.9a.jpg",
-  "zdj 4.10.jpg",
-  "zdj 4.11.jpg",
+  "memories1.jpg",
+  "memories2.jpg",
+  "memories3.jpg",
+  "memories4.jpg",
+  "memories5.jpg",
+  "memories6.jpg",
+  "memories7.jpg",
+  "memories8.jpg",
+  "memories9.jpg",
+  "memories10.jpg",
+  "memories11.jpg",
+  "memories12.jpg",
+  "memories13.jpg",
+  "memories14.jpg",
+  "memories15.jpg",
+  "memories16.jpg",
+  "memories17.jpg",
+  "memories18.jpg",
+  "memories19.jpg",
 ];
 
 function Memories() {
   return (
     <div className="text-center flex flex-col justify-center items-center">
-      <p className="text-7xl mb-6 leading-10 font-script">Nasze wspomnienia</p>
+      <p className="text-7xl mb-6 leading-10 font-script">Nasze wspomnieniaa</p>
       <div className="max-w-lg mx-4">
         <Carousel autoSlide={true}>
           {slides.map((s) => (
