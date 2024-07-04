@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "BDSans";
+  src: url("./fonts/BDSans-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BDSans";
+  src: url("./fonts/BDSans-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BDSans";
+  src: url("./fonts/BDSans-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BDSans";
+  src: url("./fonts/BDSans-Thin.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BDScript";
+  src: url("./fonts/BDScript-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "BDScript";
+  src: url("./fonts/BDScript-Regular.ttf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: "TheSeasons";
+  src: url("./fonts/Fontspring-DEMO-theseasons-bd.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TheSeasons-bdit";
+  src: url("./fonts/Fontspring-DEMO-theseasons-bdit.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TheSeasons";
+  src: url("./fonts/Fontspring-DEMO-theseasons-it.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TheSeasons";
+  src: url("./fonts/Fontspring-DEMO-theseasons-lt.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TheSeasons";
+  src: url("./fonts/Fontspring-DEMO-theseasons-ltit.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TheSeasons";
+  src: url("./fonts/Fontspring-DEMO-theseasons-reg.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+} */
