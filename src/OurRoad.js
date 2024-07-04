@@ -11,7 +11,7 @@ function OurRoad() {
         pierwszego dnia jako małżeństwo.<br></br>W tym szczególnym dla nas dniu,
         który zapamiętamy do końca życia chcemy Wam podziękować za całe dobro,
         które od Was otrzymaliśmy. Jesteśmy bardzo szczęśliwi, widząc Was tutaj
-        obecnych i liczymy na wspólną zabawę do białego rana!.
+        obecnych i liczymy na wspólną zabawę do białego rana!
       </p>
     </div>
   );
