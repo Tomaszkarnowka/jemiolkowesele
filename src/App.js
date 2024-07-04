@@ -9,7 +9,7 @@ import ThankYou from "./ThankYou";
 
 function App() {
   return (
-    <div className="bg-RAL6011 text-RAL9003 flex flex-col gap-6 items-center text-center">
+    <div className="bg-RAL6011 text-RAL9003 flex flex-col gap-3 items-center text-center">
       <Header />
       <div className="text-center flex flex-col justify-center items-center">
         <img src="ikona.png" alt="Zaręczyny 2" className="w-64 " />
