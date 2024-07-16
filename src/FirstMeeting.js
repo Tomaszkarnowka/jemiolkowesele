@@ -7,10 +7,10 @@ function FirstMeeting() {
       <p className="">
         Poznali się w 2011 roku, czyli w pierwszej klasie gimnazjum. Przez
         długie lata była to raczej koleżeńska relacja. Rozmowy SMS-owe i lata
-        starań Piotrka wydawały zakończyć się już fiaskiem…<br></br>
+        starań Piotrka wydawały się zakończyć już fiaskiem…<br></br>
         Nieoczekiwany zwrot akcji nastąpił w szkole średniej. Każde z nich było
         już w innym otoczeniu i przypadkiem spotkali się w autobusie relacji
-        Kolbuszowa- Lipnica, gdy to Piotrek wracał na weekend do domu z
+        Kolbuszowa-Lipnica, gdy to Piotrek wracał na weekend do domu z
         Rzeszowa, a Sylwia kończyła dzień w kolbuszowskim liceum. I coś
         zaklikało…<br></br>Ich znajomość ponownie wkroczyła na inne tory.
         Odnowili kontakt pod pretekstem „wzajemnej pomocy w nauce” i zaczęły się

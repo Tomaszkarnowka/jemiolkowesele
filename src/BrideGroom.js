@@ -17,7 +17,7 @@ function BrideGroom() {
           <p className="text-8xl mb-12 font-script leading-10">Sylwia</p>
           <p className="mb-4">
             W tym roku skończyłam 26 lat. Jestem magistrem Ekonomii i obecnie
-            pracuje w amerykańskiej korporacji zajmującej się obsługą finansową
+            pracuję w amerykańskiej korporacji zajmującej się obsługą finansową
             dla inwestorów instytucjonalnych. Brzmi całkiem poważnie, ale nie
             zawsze tak jest. Wolne chwile spędzam raczej aktywnie, ze znajomymi
             lub na zajęciach zumby. Moją pasją jest odkrywanie nowych miejsc.
@@ -34,7 +34,7 @@ function BrideGroom() {
             Może nie jestem głównym organizatorem tego wydarzenia, ale jestem
             równie ważną osobą dzisiejszego dnia. Pracuję jako konstruktor
             maszyn, a po pracy lubię odpalić grę na konsoli lub spędzić czas
-            aktynie na boisku bądź siłowni. Największą frajdę sprawia mi jednak
+            aktywnie na boisku bądź siłowni. Największą frajdę sprawia mi jednak
             podróżowanie i odkrywanie nowych miejsc z Sylwią.
           </p>
           <img

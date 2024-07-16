@@ -8,10 +8,10 @@ function ThankYou() {
         Życzenie Młodej Pary
       </h2>
       <p className="mb-8">
-        Na koniec mamy do Was jeszcze prośbę o pomoc w utrwaleniu tych
-        wspaniałych wspomnień, które dziś tworzymy. Poniżej znajdziecie link do
-        dysku, który umożliwi Wam wgranie zdjęć i filmików, tak by nic z tego
-        dnia nas nie ominęło.
+        Na koniec mamy do Was prośbę o pomoc w utrwaleniu tych wspaniałych
+        wspomnień, które dziś tworzymy. Poniżej znajdziecie link do dysku, gdzie
+        możecie wrzucić zdjęcia i filmiki, abyśmy niczego z tego dnia nie
+        przegapili.
       </p>
       <a href="https://drive.google.com/drive/folders/1EYuKQx4U5BlH9tdsrc-H8YX_n7_u5Biz">
         <button className="rounded-full bg-RAL9003 text-RAL6011 mx-10 p-3 text-xl ">

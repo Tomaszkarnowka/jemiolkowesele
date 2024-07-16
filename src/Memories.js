@@ -20,7 +20,7 @@ const slides = [
 function Memories() {
   return (
     <div className="text-center flex flex-col justify-center items-center">
-      <p className="text-7xl mb-6 leading-10 font-script">Nasze wspomnieniaa</p>
+      <p className="text-7xl mb-6 leading-10 font-script">Nasze wspomnienia</p>
       <div className="max-w-lg mx-4">
         <Carousel autoSlide={true}>
           {slides.map((s) => (
