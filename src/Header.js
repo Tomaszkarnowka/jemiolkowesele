@@ -18,7 +18,7 @@ function Header() {
         <p className="">&</p>
         <p>Piotr Jemioła</p>
       </div>
-      <p className="text-7xl">20 lipiec 2024</p>
+      <p className="text-7xl">20 lipca 2024</p>
     </div>
   );
 }
